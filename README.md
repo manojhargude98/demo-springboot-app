@@ -20,7 +20,12 @@ This is a simple Spring Boot REST API project created using Spring Tool Suite (S
 
 ## Notes
 This line was added directly on GitHub.
+
 This line was added directly on GitHub 2nd time.
 
 ## Conflict Test
+<<<<<<< HEAD
 Remote change
+=======
+Local change
+>>>>>>> 709a7dc (Local README change)

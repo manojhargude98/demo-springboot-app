@@ -17,3 +17,6 @@ This is a simple Spring Boot REST API project created using Spring Tool Suite (S
 | Method | Endpoint | Description |
 |------|--------|-------------|
 | GET | /hello | Sample hello API |
+
+## Notes
+This line was added directly on GitHub.
